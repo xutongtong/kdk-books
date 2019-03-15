@@ -1,6 +1,7 @@
 package com.kaidike.books.domain.entities.digital;
 
-import java.awt.*;
+import com.kaidike.books.domain.entities.image.Image;
+
 import java.util.ArrayList;
 
 public class Digital {
